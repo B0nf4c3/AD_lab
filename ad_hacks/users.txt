@@ -1,0 +1,14 @@
+Administrator
+Guest
+krbtgt
+DC1$
+ahardacre
+gdavies
+ngill
+ewelch
+amacleod
+squinn
+mmitchell
+thart
+dburgess
+nwright

@@ -1,0 +1,87 @@
+{
+  "groups": [
+    {
+      "name": "Executives"
+    },
+    {
+      "name": "Developers"
+    },
+    {
+      "name": "Personnel"
+    },
+    {
+      "name": "Operations"
+    },
+    {
+      "name": "Researchers"
+    },
+    {
+      "name": "Lawyer"
+    },
+    {
+      "name": "Employees"
+    },
+    {
+      "name": "Managers"
+    },
+    {
+      "name": "Marketing"
+    },
+    {
+      "name": "Sales"
+    }
+  ],
+  "users": [
+    {
+      "groups": "Researchers",
+      "name": "Alison Hardacre",
+      "password": "teresa"
+    },
+    {
+      "groups": "Executives",
+      "name": "Gabrielle Davies",
+      "password": "snoopy"
+    },
+    {
+      "groups": "Developers",
+      "name": "Natalie Gill",
+      "password": "adriana"
+    },
+    {
+      "groups": "Lawyer",
+      "name": "Eric Welch",
+      "password": "rockyou"
+    },
+    {
+      "groups": "Operations",
+      "name": "Andrew MacLeod",
+      "password": "patrick"
+    },
+    {
+      "groups": "Managers",
+      "name": "Sam Quinn",
+      "password": "696969"
+    },
+    {
+      "groups": "Sales",
+      "name": "Mary Mitchell",
+      "password": "christian"
+    },
+    {
+      "groups": "Marketing",
+      "name": "Tracey Hart",
+      "password": "lakers"
+    },
+    {
+      "groups": "Personnel",
+      "name": "Diana Burgess",
+      "password": "football"
+    },
+    {
+      "groups": "Employees",
+      "name": "Nicola Wright",
+      "password": "babyboy"
+    }
+  ],
+  "domain": "AD.local"
+}
